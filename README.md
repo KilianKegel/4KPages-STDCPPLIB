@@ -1,8 +1,6 @@
 # 4KPages-STDCPPLIB
 P.J.Plauger's "Standard C++ Library"
 
-[PDF](https://1drv.ms/b/c/ff234b6fa870c030/EfaxMjlDA9JAp6DJ7codAJEB5bbGx75MFa5toR7BKj0Sjw)
-
 ![](https://github.com/KilianKegel/4KPages-STDCPPLIB/blob/main/images/STDCPPLIB_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-STDCPPLIB/blob/main/images/STDCPPLIB_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-STDCPPLIB/blob/main/images/STDCPPLIB_002.jpg) 
